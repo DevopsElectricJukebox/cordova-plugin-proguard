@@ -1,5 +1,7 @@
 # cordova-plugin-proguard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/greybax/cordova-plugin-proguard.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 
 > Cordova plugin which activates ProGuard and minification for debug and release builds in your cordova mobile application.
