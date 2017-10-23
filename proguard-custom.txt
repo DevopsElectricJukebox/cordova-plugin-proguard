@@ -3,6 +3,7 @@
 -keepattributes SourceFile,LineNumberTable
 
 -keep class !com.magicworks.** { *; }
+-keep class com.magicservice.app.SpeakerDevice { *; }
 -dontwarn !com.magicworks.**
 
 # cordova PluginManager uses Class.forName(...) for plugins
